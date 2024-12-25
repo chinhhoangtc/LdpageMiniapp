@@ -1,0 +1,16 @@
+.custom-footer {
+  background: #a5cddd;
+}
+.custom-p-left-footer {
+  color: #000000;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 3.2rem;
+}
+
+.custom-div-right-footer a {
+  color: #000000;
+  font-size: 1.6rem;
+  font-weight: 400;
+  text-decoration: none;
+}

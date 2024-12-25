@@ -1,0 +1,37 @@
+.logo-header {
+  font-size: 2rem;
+  color: #0a2d61;
+}
+.menu a {
+  font-size: 1.6rem;
+  color: black;
+}
+.menu a:hover {
+  color: #5697ff;
+}
+.momenu {
+  top: 4.3rem;
+  left: 4.3rem;
+  background-color: #ffffff;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+.momenu a {
+  color: black;
+}
+.menuMobile {
+  width: 300px;
+}
+.menuMobile a {
+  height: 5rem;
+  line-height: 5rem;
+  padding-left: 1rem;
+  font-size: 1.6rem;
+  color: rgba(64, 64, 64, 0.653);
+  border-radius: 1rem;
+}
+.menuMobile a:hover {
+  background-color: #97c1ff;
+  color: #0e65e8;
+}
